@@ -1,0 +1,155 @@
+.postheader{
+    margin-right: 450px;
+    color:blue;
+}
+.Post2{
+margin-left:70px
+}
+.Post1{
+    margin-left:70px
+    }
+.imagepost{
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.profileName{
+margin-left:-165px;
+margin-top: 15px;
+}
+.profileDesc{
+    margin-left:-185px;
+    margin-top: -12px;
+    font-size: 12px;
+}
+.NotificationIcon{
+    margin-left:-90px;
+    margin-top: 17px;
+}
+.Options{
+    margin-left:15px;
+    margin-top: 17px;
+}
+.titleHeader{
+margin-left:10px;
+margin-top:20px;
+z-index: 1;
+}
+.Col1{
+    margin-top:-30px ;
+}
+.imagepost1{
+    margin-left:-20px;
+}
+.IconDesc{
+    margin-left:35px;
+    font-size:10px;
+    margin-top:-20px
+}
+.paraGraph{
+padding-left:150px;
+padding-right:5px;
+padding-top: 10px;
+background-color: orange;
+border-radius: 4px;
+box-shadow: 2px 6px rgb(241, 196, 112);
+border: 1px solid orange;
+}
+.buttonSignup{
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+.imageParagraph{
+    margin-top: -110px;
+    margin-left: 25px;
+}
+.headerTraining{
+    margin-top: 20px;
+    margin-left:-100px
+}
+.column {
+    float: left;
+    margin-left:0px;
+    width: 25%;
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .paraGraph1{
+    width: 100%;
+    padding-top: 10px;
+    background-color: blue;
+    border-radius: 4px;
+    box-shadow: 2px 6px rgb(163, 179, 233);
+    border: 1px solid blue;
+}
+.paraGraph2{
+    width: 100%;
+    padding-top: 10px;
+    background-color:orangered;
+    border-radius: 4px;
+    box-shadow: 2px 6px rgb(230, 202, 112);
+    border: 1px solid blue;
+}
+
+.coll1{
+    margin-left: -30px;
+    color:white;
+}
+.coll2{
+    color:white;
+}
+.buttonSignup1{
+    margin-top: -10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    color:black;
+    background-color:white;
+    padding-bottom: 10px;
+}
+.colll1{
+    color:white;
+    font-size:20px;
+    margin-top: 5px;
+}
+.colll2{
+    color:white;
+    margin-top: -10px;
+    font-size:8px;
+}
+.colll3{
+    color:white;
+    margin-top: -10px;
+    font-size:12px;
+}
+.icon1{
+    transform: rotate(90deg);
+    margin-top:15px;
+}
+.icon2{
+    margin-top:15px;
+    margin-left: 20px;
+}
+.endmark{
+    width: 100%;
+}
+.TrainerHeading{
+    float:left;
+    width: 100%;
+}
+.trainerName{
+    margin-top: 20px;
+    margin-left:-175px;
+}
+.trainerDesc{
+    margin-left:-200px;
+    margin-top:-10px;
+    font-size:8px;
+}
+.trainerMenu{
+    margin-top: -70px;
+    margin-left: 100px;
+}
+
